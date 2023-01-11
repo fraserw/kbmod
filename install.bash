@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "Installing... Be aware of your current python environment"
 git submodule init
 git submodule update
